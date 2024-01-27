@@ -1,0 +1,16 @@
+body {background-color: black;  background-image: url(TGI.jpeg)}
+h1 {color: white; font-family: sans-serif; size: 100px; text-align: center;}
+
+
+#logo {text-align: center;}
+table, th {margin: 0 auto; color: red; background-color: white; border-color: red; border-width: 5px; ;}
+th {margin: 0 auto; align-content: center; display: inline;}
+#table1, #table2 {content-align: center; display: inline;}
+th {text-align: center; color: white; font-family: sans-serif; font-size: 30px; display: inlineborder-color: red; border-width: 5px; border-color: red; border-width: 5px}
+td {color: Black; font-family: sans-serif; font-size: 20px; text-align: center; border-color: red; border-width: 5px; font-weight: bolder;}
+.images {background-image: url(stripes.jpeg)}
+
+body {background-color: black;}
+
+prices{font-family: fantasy; font-style: italic; font-weight: 200; font-size: 10;}
+Names {}
